@@ -1,6 +1,6 @@
 # T41_v12
 
-***I've moved development of the v11 software over to my combined v11/v12 project [T41_Vxx](https://github.com/tmr4/T41_Vxx).***
+***I've moved development of the v12 software over to my combined v11/v12 project [T41_Vxx](https://github.com/tmr4/T41_Vxx).***
 
 This is a port of my [T41 v11 software](https://github.com/tmr4/T41_SDR).  There isn't much here yet.  I'll add more as I move along with the port.
 
